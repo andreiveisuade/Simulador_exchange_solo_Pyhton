@@ -1,0 +1,1 @@
+# Simulador_exchange_solo_Pyhton
